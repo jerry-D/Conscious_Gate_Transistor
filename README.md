@@ -1,4 +1,4 @@
-https://github.com/jerry-D/Conscious_Gate_Transistor/blob/master/Thought_Chip_01.png
+![](https://github.com/jerry-D/Conscious_Gate_Transistor/blob/master/Thought_Chip_01.png )
 
 # Conscious_Gate_Transistor
 August 5, 2020--The OpenSCAD source in this repository will generate a 3D model of the bifurcated carbon nanotube transistor depicted in the .png image file.
