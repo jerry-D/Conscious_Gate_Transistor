@@ -1,7 +1,7 @@
 ![](https://github.com/jerry-D/Conscious_Gate_Transistor/blob/master/Thought_Chip_01.png )
 
 # Conscious_Gate_Transistor
-September 28. 2020--"ThinkChip" poster now available for free download.  Click on the thumbnail image below.
+September 28. 2020--"ThoughtChip" poster now available for free download.  Click on the thumbnail image below.
 
 August 5, 2020--The OpenSCAD source in this repository will generate a 3D model of the bifurcated carbon nanotube transistor depicted in the .png image file.
 A true and correct copy of the provisional patent application, along with list of References used in the research, can be found within this repository.
@@ -10,7 +10,6 @@ A 56-minute "sizzle-reel" video showing remote viewers describing various aspect
 
 [![Technology Transfer](http://img.youtube.com/vi/Hdq3M4zQx_o/0.jpg)](http://www.youtube.com/watch?v=Hdq3M4zQx_o "Conscious Gate Transistor Technology Transfer")
 
-A "ThinkChip" poster can be downloaded by clicking on the thumbnail image below.
 [![ThinkChip](https://github.com/jerry-D/Conscious_Gate_Transistor/blob/master/ThoughtChip_Poster1_thumb.png )]https://github.com/jerry-D/Conscious_Gate_Transistor/blob/master/ThoughtChip_Poster1.png
 
 
