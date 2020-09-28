@@ -10,7 +10,7 @@ A 56-minute "sizzle-reel" video showing remote viewers describing various aspect
 
 [![Technology Transfer](http://img.youtube.com/vi/Hdq3M4zQx_o/0.jpg)](http://www.youtube.com/watch?v=Hdq3M4zQx_o "Conscious Gate Transistor Technology Transfer")
 
-[![ThinkChip](https://github.com/jerry-D/Conscious_Gate_Transistor/blob/master/ThoughtChip_Poster1_thumb.png)](https://github.com/jerry-D/Conscious_Gate_Transistor/blob/master/ThoughtChip_Poster1.png)
+[![ThinkChip](https://github.com/jerry-D/Conscious_Gate_Transistor/blob/master/ThoughtChip_Poster1_thumb.png)](https://github.com/jerry-D/Conscious_Gate_Transistor/blob/master/ThoughtChip_Poster1.pdf)
 
 ![](https://github.com/jerry-D/Conscious_Gate_Transistor/blob/master/Conscious_CNT_Transistor_3D.png )
 
