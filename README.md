@@ -5,7 +5,7 @@ October 24, 2020--Video of Apollo 16 EVA-3 "Shipwreck" published on YouTube.  Th
 
 To watch the 4.8-minute video, click on the thumb below.  A copy of the official NASA image AS16-116-18603HR.jpg is available in this repository.  A copy of the re-constructed version is also available here for free download.  To re-construt the main feature, a screen-capture of the official NASA video was cropped, stripped, and tone-adjusted before pasting it over NASA obfuscation attempt in said main feature.  Other than that, no other modifications other that re-saturation, constrast/tone adjustments were made to the official NASA image.  Most of the white burn-in spots are a result of NASA airbrushing over other features, such as cables and conduits, etc., littering the site.
 
-[![Shipwreck](http://img.youtube.com/vi/4T1C7Qe65VA/0.jpg)](http://www.youtube.com/watch?v=Hdq3M4zQx_o "Apollo 16 EVA-3 Shipwreck")
+[![Shipwreck](http://img.youtube.com/vi/4T1C7Qe65VA/0.jpg)](http://www.youtube.com/watch?v=4T1C7Qe65VA "Apollo 16 EVA-3 Shipwreck")
 
 
 September 28, 2020--"ThoughtChip" poster now available for free download.  Click on the thumbnail image below.
