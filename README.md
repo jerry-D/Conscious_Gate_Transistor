@@ -1,12 +1,9 @@
 ![](https://github.com/jerry-D/Conscious_Gate_Transistor/blob/master/Thought_Chip_01.png )
 
 # Conscious_Gate_Transistor
-October 24, 2020--Video of Apollo 16 EVA-3 "Shipwreck" published on YouTube.  The "ship" is most likely cybernetic conscious machine, meaning both biological and mechanical in nature, in that back then, the microprocessor had not been invented yet, meaning it was created at least in part with genetics, i.e., DNA.
+June 18, 2021--The formal utility U.S. Patent application was filed on June 17, 2021.  Click on the link below to download it.  References can also be downloaded from this repository.
 
-To watch the 4.8-minute video, click on the thumb below.  A copy of the official NASA image AS16-116-18603HR.jpg is available in this repository.  A copy of the re-constructed version is also available here for free download.  To re-construt the main feature, a screen-capture of the official NASA video was cropped, stripped, and tone-adjusted before pasting it over NASA obfuscation attempt in said main feature.  Other than that, no other modifications other that re-saturation, constrast/tone adjustments were made to the official NASA image.  Most of the white burn-in spots are a result of NASA airbrushing over other features, such as cables and conduits, etc., littering the site.  Watch this short video and see if you can find the "heiroglyphs" on the control panel.
-
-[![Shipwreck](http://img.youtube.com/vi/4T1C7Qe65VA/0.jpg)](http://www.youtube.com/watch?v=4T1C7Qe65VA "Apollo 16 EVA-3 Shipwreck")
-
+https://github.com/jerry-D/Conscious_Gate_Transistor/blob/master/references_2021.pdf
 
 September 28, 2020--"ThoughtChip" poster now available for free download.  Click on the thumbnail image below.
 
