@@ -1,6 +1,11 @@
 ![](https://github.com/jerry-D/Conscious_Gate_Transistor/blob/master/Thought_Chip_01.png )
 
 # Conscious_Gate_Transistor
+Nov. 19, 2021--Below is a "mock-up" rendering showing that you can stack-mount a piece of silicon substrate on top of a decapped Analog Devices AD8229HDZ instrumentation amplifier.  Once mounted, polish with FIB.  Use FIB to excavate assembly jig trenches.  FIB contacts and bonding pads in titanium, gold or nickle--symmetric.  If you use (9,9) trunk and (6,6) "L", or (12,12) trunk and (6,6) "L", you won't need to FIB fields.  Have fun.
+
+https://github.com/jerry-D/Conscious_Gate_Transistor/blob/master/prototype_mockup.png
+
+
 June 18, 2021--The formal utility U.S. Patent application was filed on June 17, 2021.  Click on the link below to download it.  References can also be downloaded from this repository.
 
 https://github.com/jerry-D/Conscious_Gate_Transistor/blob/master/1618-0339_Nonprovisional_Application-merged.pdf
