@@ -1,11 +1,13 @@
 ![](https://github.com/jerry-D/Conscious_Gate_Transistor/blob/master/Thought_Chip_01.png )
 
 # Conscious_Gate_Transistor
-June 18, 2021--The formal utility U.S. Patent application was filed on June 17, 2021.  Click on the link below to download it.  References can also be downloaded from this repository.
+November 24, 2022--The formal utility U.S. Patent Application US-2022/0376193-A1 is officially published at USPTO. Click on the link below to download it.  References can also be downloaded from this repository.
 
-https://github.com/jerry-D/Conscious_Gate_Transistor/blob/master/1618-0339_Nonprovisional_Application-merged.pdf
+https://github.com/jerry-D/Conscious_Gate_Transistor/blob/master/US-20220376193-A1_I.pdf
 
 https://github.com/jerry-D/Conscious_Gate_Transistor/blob/master/references_2021.pdf
+
+June 18, 2021--The formal utility U.S. Patent application was filed on June 17, 2021.
 
 September 28, 2020--"ThoughtChip" poster now available for free download.  Click on the thumbnail image below.
 
