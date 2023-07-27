@@ -1,6 +1,10 @@
 ![](https://github.com/jerry-D/Conscious_Gate_Transistor/blob/master/Thought_Chip_01.png )
 
 # Conscious_Gate_Transistor
+(July 27, 2023) Open Letter to the IEEE concerning the newly patented IEEE 754-2019 Floating-Point ISA and proposal that it be adopted as a Standard IEEE Floating-Point ISA. Here is the link:
+
+https://github.com/jerry-D/Conscious_Gate_Transistor/blob/master/Open_Letter_to_IEEE_B_redacted.pdf
+
 April 25, 2023--Version 2.24 of the ThoughtChip "pitch-deck" has been updated to reflect the two new US Patents that were granted today and which are referenced in this pitch-deck:
 
 https://github.com/jerry-D/Conscious_Gate_Transistor/blob/master/ThoughtChip_pitch_Rev2_4.pdf
