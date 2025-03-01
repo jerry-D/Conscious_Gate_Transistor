@@ -7,7 +7,7 @@ https://github.com/jerry-D/Conscious_Gate_Transistor/blob/master/Open_Letter_to_
 
 April 25, 2023--Version 2.24 of the ThoughtChip "pitch-deck" has been updated to reflect the two new US Patents that were granted today and which are referenced in this pitch-deck:
 
-https://github.com/jerry-D/Conscious_Gate_Transistor/blob/master/ThoughtChip_pitch_Rev2_4.pdf
+https://github.com/jerry-D/Conscious_Gate_Transistor/blob/master/ThoughtChip_pitch_Rev5.pdf
 
 November 24, 2022--The formal utility U.S. Patent Application US-2022/0376193-A1 is officially published at USPTO. Click on the link below to download it.  References can also be downloaded from this repository.
 
