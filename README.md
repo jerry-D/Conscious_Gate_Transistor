@@ -1,6 +1,4 @@
-![](https://github.com/jerry-D/Conscious_Gate_Transistor/blob/master/Thought_Chip_01.png )
-
-# Conscious_Gate_Transistor
+# Nanostructure Bidirectional Bifurcated Transistor
 (June 19, 2025) As many of you may be aware, the original parent utility application US-2022/0376193-A1, posted here previously, issued as US Patent No: US 12,324,295 B2 on June 3, 2025.  The pertinent Figure for the issued patent in the original application is FIG. 2, the nanostructure Bidirectional Artificial Neuron for Conscious Machines.  
 
 During prosecution, the Examiner issued a unity of invention restriction, stating that the three independent claims are actually three separate inventions.  Thus, two divisional patent applications were filed to cover the remaining two independent claims.  The divisional patent application numbers are US 19/195,998 and US 19/196,123.  Divisional patent application US 19/195,998 pertains to FIG. 1a thru FIG. 1g of the original parent utility application. Divisional patent application US 19/196,123 pertains to FIG. 8 of the original parent utility application.
@@ -13,7 +11,10 @@ https://github.com/jerry-D/Conscious_Gate_Transistor/blob/master/DIV2_claims_2nd
 
 ![](https://github.com/jerry-D/Conscious_Gate_Transistor/blob/master/DIV_FIGs_both.png)
 
-On June 18, 2025, Prelimenary Second Amendments were filed for each of the divisional applications.
+# Conscious_Gate_Transistor
+
+![](https://github.com/jerry-D/Conscious_Gate_Transistor/blob/master/Thought_Chip_01.png )
+
 (July 27, 2023) Open Letter to the IEEE concerning the newly patented IEEE 754-2019 Floating-Point ISA and proposal that it be adopted as a Standard IEEE Floating-Point ISA. Here is the link:
 
 https://github.com/jerry-D/Conscious_Gate_Transistor/blob/master/Open_Letter_to_IEEE_B_redacted.pdf
