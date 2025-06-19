@@ -5,7 +5,7 @@
 
 During prosecution, the Examiner issued a unity of invention restriction, stating that the three independent claims are actually three separate inventions.  Thus, two divisional patent applications were filed to cover the remaining two independent claims.  The divisional patent application numbers are US 19/195,998 and US 19/196,123.  Divisional patent application US 19/195,998 pertains to FIG. 1a thru FIG. 1g of the original parent utility application. Divisional patent application US 19/196,123 pertains to FIG. 8 of the original parent utility application.
 
-If you'd like to have a look at the current claims for each of the divisionals, immediately below are links to the Preliminary Second Amended Claims for each of the divisionals.  Just click on the link for the desired divisional .pdf to view it on screen.
+If you'd like to have a look at the current claims for each of the divisionals, immediately below are links to the Preliminary Second Amended Claims for each of the divisionals that were filed on June 18, 2025.  Just click on the link for the desired divisional .pdf to view it on screen.
 
 https://github.com/jerry-D/Conscious_Gate_Transistor/blob/master/DIV1_claims_2nd_Amend.pdf
 
