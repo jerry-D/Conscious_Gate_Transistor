@@ -1,4 +1,8 @@
 # Nanostructure Bidirectional Bifurcated Transistor
+(August 14, 2025) The Divisional application for the Nanostructure Bidirectional Bifurcated Transistor published today at the USPTO as publication number US 2025/0259676 A1.  The claims pertain to FIG. 1a thru FIG. 1j and FIG. 13a thru FIG. 13m.  Here is a link where you can download a copy of the application:
+
+https://github.com/jerry-D/Conscious_Gate_Transistor/blob/master/20250259676.pdf
+
 (June 19, 2025) As many of you may be aware, the original parent utility application US-2022/0376193-A1, posted here previously, issued as US Patent No: US 12,324,295 B2 on June 3, 2025.  The pertinent Figure for the issued patent in the original application is FIG. 2, the nanostructure Bidirectional Artificial Neuron for Conscious Machines.  
 
 During prosecution, the Examiner issued a unity of invention restriction, stating that the three independent claims are actually three separate inventions.  Thus, two divisional patent applications were filed to cover the remaining two independent claims.  The divisional patent application numbers are US 19/195,998 and US 19/196,123.  Divisional patent application US 19/195,998 pertains to FIG. 1a thru FIG. 1g of the original parent utility application. Divisional patent application US 19/196,123 pertains to FIG. 8 of the original parent utility application.
