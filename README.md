@@ -1,4 +1,8 @@
-# Nanostructure Bidirectional Bifurcated Transistor
+# Nanostructure Bidirectional Bifurcated Transistor and Information Unfolder
+(August 21, 2025)  This is the Divisional application is the sister of the Divisional application that published last week.  There are presently a total 18 claims, with 3 of them being independent.  Independent claim 21 pertains to FIG. 9 and independent claims 16 and 26 pertain to FIG. 8.  Both are information unfolders.  You can also look at them as artificial "pyramidal" neurons for Conscious Machines.  No need to implant them into the human body or employ any kind of tethering.  The carbon nanotube nanostructures are decorated with the DNA of a human donor.  Once decorated with the DNA, the human percipient can influence which paths electrons take using volition alone.  Here is a link where you can download just the upper face page, FIG. 8 & FIG. 9, and the claims:
+
+https://github.com/jerry-D/Conscious_Gate_Transistor/blob/master/Div_20250266090_w_Claims.pdf
+
 (August 14, 2025) The Divisional application for the Nanostructure Bidirectional Bifurcated Transistor published today at the USPTO as publication number US 2025/0259676 A1.  The claims pertain to FIG. 1a thru FIG. 1j and FIG. 13a thru FIG. 13m.  Here is a link where you can download a copy of the application:
 
 https://github.com/jerry-D/Conscious_Gate_Transistor/blob/master/20250259676.pdf
